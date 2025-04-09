@@ -1,5 +1,6 @@
 #include <curl/curl.h>
 #include <curl/easy.h>
+#include <pugixml.hpp>
 
 int main(int argc, char* argv[])
 //"https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"
