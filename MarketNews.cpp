@@ -4,7 +4,7 @@
 int main(int argc, char* argv[])
 //"https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"
 {
-    CURL* curl = curl_easy_init();
+    CURL *curl = curl_easy_init();
     if(curl){
         CURLcode res;
 
@@ -12,6 +12,7 @@ int main(int argc, char* argv[])
         curl_easy_setopt(curl, CURLOPT_URL, "https://example.com");
         //All options
         curl_easy_setopt(curl, CURLOPT_HTTPGET, 1L );
+        curl_easy_setopt(curl, CURLOPT_VERBOSE, 1L);
 
         //Perform the ops
         curl_easy_perform(curl);
