@@ -1,0 +1,14 @@
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/CMakeFiles/MrktTerminal.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/CMakeFiles/edit_cache.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/CMakeFiles/rebuild_cache.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/CMakeFiles/list_install_components.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/CMakeFiles/install.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/CMakeFiles/install/local.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/CMakeFiles/install/strip.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/pugixml/CMakeFiles/pugixml-static.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/pugixml/CMakeFiles/edit_cache.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/pugixml/CMakeFiles/rebuild_cache.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/pugixml/CMakeFiles/list_install_components.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/pugixml/CMakeFiles/install.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/pugixml/CMakeFiles/install/local.dir
+/Users/alexdavilaalonso/Documents/MrktTerminal/build/pugixml/CMakeFiles/install/strip.dir

@@ -14,8 +14,7 @@ add_executable(MrktTerminal MarketNews.cpp)
 
 #Link both pugixml and Curl
 target_link_libraries(MrktTerminal
-    PRIVATE
-    PugiXML
+   pugixml
     CURL::libcurl
 )
 

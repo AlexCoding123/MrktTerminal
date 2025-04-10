@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/alexdavilaalonso/Documents/MrktTerminal/build/cmake_install.cmake",
+		"/Users/alexdavilaalonso/Documents/MrktTerminal/build/pugixml/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
